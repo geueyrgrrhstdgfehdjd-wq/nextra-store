@@ -1,0 +1,8 @@
+[
+  { "id": 1, "cat": "roblox", "name": "Roblox Gift Card $10", "desc": "เติม Robux", "price": 350, "agentPrice": 280, "img": "roblox", "tag": "HOT" },
+  { "id": 2, "cat": "roblox", "name": "Roblox Gift Card $25", "desc": "เติม Robux คุ้มๆ", "price": 850, "agentPrice": 680, "img": "roblox", "tag": "HOT" },
+  { "id": 3, "cat": "valorant", "name": "Valorant Points 125", "desc": "VP", "price": 75, "agentPrice": 55, "img": "valorant" },
+  { "id": 4, "cat": "valorant", "name": "Valorant Points 700", "desc": "VP", "price": 380, "agentPrice": 300, "img": "valorant" },
+  { "id": 5, "cat": "pubg", "name": "PUBG UC 60", "desc": "UC", "price": 35, "agentPrice": 25, "img": "pubg" },
+  { "id": 6, "cat": "netflix", "name": "Netflix 1 เดือน", "desc": "4K", "price": 380, "agentPrice": 300, "img": "netflix" }
+]
