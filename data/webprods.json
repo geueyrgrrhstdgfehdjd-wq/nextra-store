@@ -1,0 +1,4 @@
+[
+  { "id": 1, "cat": "webtemplate", "name": "เว็บร้านค้า", "desc": "ระบบครบ", "price": 1500, "agentPrice": 1100, "img": "globe", "expDay": 31, "expMonth": 12, "expYear": 2026 },
+  { "id": 2, "cat": "webtemplate", "name": "เว็บเกม", "desc": "Landing สวย", "price": 800, "agentPrice": 600, "img": "game", "expDay": 1, "expMonth": 6, "expYear": 2026 }
+]
