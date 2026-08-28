@@ -1,0 +1,9 @@
+[
+  { "id": "roblox", "name": "Roblox", "icon": "roblox", "desc": "เกม Roblox" },
+  { "id": "valorant", "name": "Valorant", "icon": "valorant", "desc": "Valorant Points" },
+  { "id": "pubg", "name": "PUBG", "icon": "pubg", "desc": "PUBG UC" },
+  { "id": "netflix", "name": "Netflix", "icon": "netflix", "desc": "Netflix Premium" },
+  { "id": "webtemplate", "name": "เทมเพลตเว็บ", "icon": "globe", "desc": "เทมเพลตเว็บไซต์" },
+  { "id": "game", "name": "เกม", "icon": "game", "desc": "เกมและไอเทม" },
+  { "id": "webproduct", "name": "เว็บไซต์", "icon": "globe", "desc": "สินค้าเว็บไซต์" }
+]
